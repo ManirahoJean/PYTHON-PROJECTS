@@ -1,4 +1,4 @@
-# 2.2 Print a message to every person's name
+# 2.2 Print a message to every person's name in the list
 
 names = ['mbaraga', 'nkunda', 'kwigira']
 
