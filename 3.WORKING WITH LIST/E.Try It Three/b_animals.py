@@ -11,6 +11,6 @@ print("\n")
 
 for animal in animals:
     print(f"a {animal.title()} is the great hunter")
-print("Any of these animals would have a great pet")
+print("Any of these animals would hunt a great prey!")
 
 
