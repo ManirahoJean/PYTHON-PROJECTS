@@ -13,3 +13,4 @@ print("\nOur new foods are the following: \n")
 
 for food in buffet:
     print(food)
+
