@@ -32,16 +32,3 @@ friends_favorite_foods.append('ice cream')
 
 print(my_favorite_foods)
 print(friends_favorite_foods)
-
-
-
-
-
-
-
-
-
-
-
-
-
