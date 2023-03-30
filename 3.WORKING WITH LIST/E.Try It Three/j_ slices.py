@@ -10,9 +10,3 @@ print(my_favorite_foods[2:])
 
 print("\nThe last favorite foods are:")
 print(my_favorite_foods[-2:])
-
-
-
-
-
-
