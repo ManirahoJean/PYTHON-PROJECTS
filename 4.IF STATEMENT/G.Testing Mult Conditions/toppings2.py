@@ -5,7 +5,7 @@
 # This behavior is beneficial, because it’s efficient
 # and allows you to test for one specific condition
 
-# However, sometimes it’s important to check all of the conditions of
+# However, sometimes it’s important to check all o the conditions of
 # interest.
 
 # In this case, you should use a series of simple if statements with no
@@ -36,6 +36,3 @@ elif 'pepperoni' in requested_toppings:
 elif 'extra cheese' in requested_toppings:
     print("Add extra cheese")
 print("Finished making your pizza")
-
-
-
