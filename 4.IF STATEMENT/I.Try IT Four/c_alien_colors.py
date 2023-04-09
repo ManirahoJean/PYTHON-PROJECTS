@@ -1,4 +1,5 @@
 # 4.3 alien color
+
 alien_color = ['green', 'yellow', 'red']
 if 'green' in alien_color:
     print("You earned 5 points!")
