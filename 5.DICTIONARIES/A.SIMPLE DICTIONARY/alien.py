@@ -73,13 +73,4 @@ print(alien_4)
 del alien_4['points']
 print(alien_4)
 
-# A Dictionary of Similar Objects
 
-favorite_languages = {
-    'jane': 'python',
-    'sarah': 'c',
-    'edward': 'ruby',
-    'phil': 'python'
-}
-language = favorite_languages['sarah'].title()
-print(f"Sarah's favorite language is {language}")
