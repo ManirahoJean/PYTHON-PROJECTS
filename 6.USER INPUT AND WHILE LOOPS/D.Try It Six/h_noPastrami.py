@@ -18,5 +18,3 @@ print("\nFinished Sandwiches:")
 
 for finished_sandwich in finished_sandwiches:
     print(finished_sandwich)
-
-
