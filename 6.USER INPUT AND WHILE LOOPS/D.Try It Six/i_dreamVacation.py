@@ -6,7 +6,7 @@ Write a prompt similar to If you could visit one place in the world, where
 would you go? Include a block of code that prints the results of the poll.
 
 """
-"""
+
 
 name_prompt = "\nEnter your name: "
 place_prompt = "\nWhat is favorite place  would you visit? "
@@ -32,7 +32,6 @@ print("\n---Dream Vacation---")
 for name, place in responses.items():
     print(f"{name.title()} would like to visit {place} city.")
 
-"""
 
 # Using method of setting Flag
 
