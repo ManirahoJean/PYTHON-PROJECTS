@@ -1,4 +1,4 @@
-# 6.8
+# 6.8 Sandwich orders
 
 sandwich_orders = ['pizza', 'peperoni', 'vegetables', 'meat', 'bread']
 finished_sandwiches = []
