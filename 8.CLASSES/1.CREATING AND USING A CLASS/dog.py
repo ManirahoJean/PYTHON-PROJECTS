@@ -49,4 +49,3 @@ your_dog = Dog('lacy', 3)
 print(f"my dog's name is {your_dog.name}")
 print(f"my dog's age is {your_dog.age} years old")
 your_dog.sit()
-
